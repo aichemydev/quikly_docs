@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.png',
   organizationName: 'aichemydev', // Usually your GitHub org/user name.
-  projectName: 'Quikly_docs', // Usually your repo name.
+  projectName: 'quikly_docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 

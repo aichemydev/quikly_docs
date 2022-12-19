@@ -7,7 +7,7 @@ export default {
   "onBrokenMarkdownLinks": "warn",
   "favicon": "favicon.png",
   "organizationName": "aichemydev",
-  "projectName": "Quikly_docs",
+  "projectName": "quikly_docs",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "presets": [
