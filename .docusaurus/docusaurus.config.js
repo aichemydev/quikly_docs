@@ -28,7 +28,7 @@ export default {
       "title": "Quikly",
       "logo": {
         "alt": "Quikly Logo",
-        "src": "img/aiChemy_Logo.svg"
+        "src": "img/favicon.png"
       },
       "items": [
         {
