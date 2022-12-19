@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/Tutorials",
+  "id": "TG Smart Observer/Tutorials",
+  "isDocsHomePage": false,
+  "title": "Quikly Smart Observer - Ready to start!",
+  "description": "Quikly Smart Observer is one of the most user friendly tools out there. Quikly Smart Observer will guide through all the steps to start recording a testcase.",
+  "source": "@site/docs/TG Smart Observer/Tutorials.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/Tutorials",
+  "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quikly Smart Observer - Get Started with our Build",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/Get started - Build"
+  },
+  "next": {
+    "title": "Quikly Smart Observer - Welcome User",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/recorder"
+  }
+}

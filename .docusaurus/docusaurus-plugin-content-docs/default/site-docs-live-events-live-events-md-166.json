@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Live Events/LiveEvents",
+  "id": "Live Events/LiveEvents",
+  "isDocsHomePage": false,
+  "title": "LiveEvents",
+  "description": "{",
+  "source": "@site/docs/Live Events/LiveEvents.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/LiveEvents",
+  "permalink": "/Quikly_docs/docs/Live Events/LiveEvents",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Quikly_docs/docs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Quikly_docs/docs/faq"
+  }
+}

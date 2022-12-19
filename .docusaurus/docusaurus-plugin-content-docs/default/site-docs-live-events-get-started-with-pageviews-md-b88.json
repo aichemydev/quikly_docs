@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Get Started with Pageviews",
+  "id": "Live Events/Get Started with Pageviews",
+  "isDocsHomePage": false,
+  "title": "Get Started with Pageviews",
+  "description": "How to use Pageviews?",
+  "source": "@site/docs/Live Events/Get Started with Pageviews.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Get Started with Pageviews",
+  "permalink": "/Quikly_docs/docs/Live Events/Get Started with Pageviews",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Up Pageviews",
+    "permalink": "/Quikly_docs/docs/Live Events/Set Up Pageviews"
+  },
+  "next": {
+    "title": "Multiple Sessions with Pageviews",
+    "permalink": "/Quikly_docs/docs/Live Events/Multiple sessions with Pageviews"
+  }
+}

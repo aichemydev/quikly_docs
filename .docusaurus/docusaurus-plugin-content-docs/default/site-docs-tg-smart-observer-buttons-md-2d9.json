@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/buttons",
+  "id": "TG Smart Observer/buttons",
+  "isDocsHomePage": false,
+  "title": "Observer and button functionality",
+  "description": "If you're new here, and you don't know what the buttons do, check out the instructions below for more info.",
+  "source": "@site/docs/TG Smart Observer/buttons.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/buttons",
+  "permalink": "/Quikly_docs/docs/TG Smart Observer/buttons",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quikly Smart Observer - View Test",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/view"
+  },
+  "next": {
+    "title": "Frequently Asked Questions",
+    "permalink": "/Quikly_docs/docs/faq"
+  }
+}

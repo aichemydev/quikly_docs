@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/view",
+  "id": "TG Smart Observer/view",
+  "isDocsHomePage": false,
+  "title": "Quikly Smart Observer - View Test",
+  "description": "After recording and sending the test to the server, go to View Test page. Here you can see the results of recording.  You can also send this test directly to your account.",
+  "source": "@site/docs/TG Smart Observer/view.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/view",
+  "permalink": "/Quikly_docs/docs/TG Smart Observer/view",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quikly Smart Observer - Start recording",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/tests"
+  },
+  "next": {
+    "title": "Observer and button functionality",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/buttons"
+  }
+}

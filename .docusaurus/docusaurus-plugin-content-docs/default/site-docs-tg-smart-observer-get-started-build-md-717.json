@@ -1,0 +1,26 @@
+{
+  "unversionedId": "TG Smart Observer/Get started - Build",
+  "id": "TG Smart Observer/Get started - Build",
+  "isDocsHomePage": false,
+  "title": "Quikly Smart Observer - Get Started with our Build",
+  "description": "Once you get started with Quikly Platform, we will send you a build for the Quikly Smart Observer.",
+  "source": "@site/docs/TG Smart Observer/Get started - Build.md",
+  "sourceDirName": "TG Smart Observer",
+  "slug": "/TG Smart Observer/Get started - Build",
+  "permalink": "/Quikly_docs/docs/TG Smart Observer/Get started - Build",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quikly Smart Observer - Introduction",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/Introduction"
+  },
+  "next": {
+    "title": "Quikly Smart Observer - Ready to start!",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/Tutorials"
+  }
+}

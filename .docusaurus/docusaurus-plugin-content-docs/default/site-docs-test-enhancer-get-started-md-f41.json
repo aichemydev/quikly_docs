@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Test Enhancer/Get Started",
+  "id": "Test Enhancer/Get Started",
+  "isDocsHomePage": false,
+  "title": "Get Started with Simulator",
+  "description": "What is Simulator?",
+  "source": "@site/docs/Test Enhancer/Get Started.md",
+  "sourceDirName": "Test Enhancer",
+  "slug": "/Test Enhancer/Get Started",
+  "permalink": "/Quikly_docs/docs/Test Enhancer/Get Started",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Observer and button functionality",
+    "permalink": "/Quikly_docs/docs/TG Smart Observer/buttons"
+  },
+  "next": {
+    "title": "Simulator Runs",
+    "permalink": "/Quikly_docs/docs/Test Enhancer/Simulator Runs"
+  }
+}

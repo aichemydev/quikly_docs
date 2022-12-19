@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Quikly_docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Quikly_docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/Quikly_docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Pm assist/miniextpro",
+              "path": "/Quikly_docs/docs/Pm assist/miniextpro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Pm_assist/miniextds",
+              "path": "/Quikly_docs/docs/Pm_assist/miniextds",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PMassist/miniext",
+              "path": "/Quikly_docs/docs/PMassist/miniext",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PMassist/record",
+              "path": "/Quikly_docs/docs/PMassist/record",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PMassist/screenshot",
+              "path": "/Quikly_docs/docs/PMassist/screenshot",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "PMassist/starting_miniext",
+              "path": "/Quikly_docs/docs/PMassist/starting_miniext",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

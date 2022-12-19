@@ -1,0 +1,284 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "versionLabel": "Next",
+          "versionPath": "/Quikly_docs/docs",
+          "tagsPath": "/Quikly_docs/docs/tags",
+          "versionBanner": null,
+          "versionBadge": false,
+          "versionClassName": "docs-version-current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\sidebars.js",
+          "contentPath": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\docs",
+          "contentPathLocalized": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "isDocsHomePage": false,
+              "title": "Getting Started",
+              "description": "PM Assist - Powerful product assistant",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/Quikly_docs/docs/intro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Pro Version - Get Started",
+                "permalink": "/Quikly_docs/docs/Pm assist/miniextpro"
+              }
+            },
+            {
+              "unversionedId": "Pm assist/miniextpro",
+              "id": "Pm assist/miniextpro",
+              "isDocsHomePage": false,
+              "title": "Pro Version - Get Started",
+              "description": "",
+              "source": "@site/docs/Pm assist/miniextpro.md",
+              "sourceDirName": "Pm assist",
+              "slug": "/Pm assist/miniextpro",
+              "permalink": "/Quikly_docs/docs/Pm assist/miniextpro",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/Quikly_docs/docs/intro"
+              },
+              "next": {
+                "title": "Designer Version - Get Started",
+                "permalink": "/Quikly_docs/docs/Pm_assist/miniextds"
+              }
+            },
+            {
+              "unversionedId": "Pm_assist/miniextds",
+              "id": "Pm_assist/miniextds",
+              "isDocsHomePage": false,
+              "title": "Designer Version - Get Started",
+              "description": "",
+              "source": "@site/docs/Pm_assist/miniextds.md",
+              "sourceDirName": "Pm_assist",
+              "slug": "/Pm_assist/miniextds",
+              "permalink": "/Quikly_docs/docs/Pm_assist/miniextds",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Pro Version - Get Started",
+                "permalink": "/Quikly_docs/docs/Pm assist/miniextpro"
+              },
+              "next": {
+                "title": "PM Assist - Powerful product assistant",
+                "permalink": "/Quikly_docs/docs/PMassist/miniext"
+              }
+            },
+            {
+              "unversionedId": "PMassist/miniext",
+              "id": "PMassist/miniext",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Powerful product assistant",
+              "description": "Want to automate your tests, but don't know where to start?",
+              "source": "@site/docs/PMassist/miniext.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/miniext",
+              "permalink": "/Quikly_docs/docs/PMassist/miniext",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Designer Version - Get Started",
+                "permalink": "/Quikly_docs/docs/Pm_assist/miniextds"
+              },
+              "next": {
+                "title": "PM Assist - Ready to start!",
+                "permalink": "/Quikly_docs/docs/PMassist/starting_miniext"
+              }
+            },
+            {
+              "unversionedId": "PMassist/record",
+              "id": "PMassist/record",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Start recording",
+              "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
+              "source": "@site/docs/PMassist/record.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/record",
+              "permalink": "/Quikly_docs/docs/PMassist/record",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Ready to start!",
+                "permalink": "/Quikly_docs/docs/PMassist/starting_miniext"
+              },
+              "next": {
+                "title": "PM Assist - Screenshots",
+                "permalink": "/Quikly_docs/docs/PMassist/screenshot"
+              }
+            },
+            {
+              "unversionedId": "PMassist/screenshot",
+              "id": "PMassist/screenshot",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Screenshots",
+              "description": "What's awesome about PM Assist?",
+              "source": "@site/docs/PMassist/screenshot.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/screenshot",
+              "permalink": "/Quikly_docs/docs/PMassist/screenshot",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Start recording",
+                "permalink": "/Quikly_docs/docs/PMassist/record"
+              }
+            },
+            {
+              "unversionedId": "PMassist/starting_miniext",
+              "id": "PMassist/starting_miniext",
+              "isDocsHomePage": false,
+              "title": "PM Assist - Ready to start!",
+              "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
+              "source": "@site/docs/PMassist/starting_miniext.md",
+              "sourceDirName": "PMassist",
+              "slug": "/PMassist/starting_miniext",
+              "permalink": "/Quikly_docs/docs/PMassist/starting_miniext",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "PM Assist - Powerful product assistant",
+                "permalink": "/Quikly_docs/docs/PMassist/miniext"
+              },
+              "next": {
+                "title": "PM Assist - Start recording",
+                "permalink": "/Quikly_docs/docs/PMassist/record"
+              }
+            }
+          ],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "PM Assist - Pro version",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Pm assist/miniextpro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "PM Assist - Designer version",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Pm_assist/miniextds"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "PM Assist",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "PMassist/miniext"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/starting_miniext"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/record"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "PMassist/screenshot"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": null
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/Quikly_docs/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/Quikly_docs/markdown-page",
+        "source": "@site/src/pages/markdown-page.md"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {
+    "default": null
+  },
+  "docusaurus-theme-classic": {
+    "default": null
+  }
+}

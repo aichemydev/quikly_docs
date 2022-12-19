@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-basics/Integrations",
+  "id": "tutorial-basics/Integrations",
+  "isDocsHomePage": false,
+  "title": "Integrations",
+  "description": "Quikly offers a variety of integrations and connectors for popular apps and platforms. This is where you can add new integrations and manage existing integrations.",
+  "source": "@site/docs/tutorial-basics/Integrations.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/Integrations",
+  "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salesforce Import Data",
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Test Runs/Test Enhancer/Salesforce"
+  },
+  "next": {
+    "title": "CI Integrations",
+    "permalink": "/Quikly_docs/docs/tutorial-basics/Integrations/integration"
+  }
+}

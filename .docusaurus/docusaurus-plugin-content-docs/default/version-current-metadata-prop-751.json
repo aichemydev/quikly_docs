@@ -1,0 +1,72 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Getting Started",
+        "href": "/Quikly_docs/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "PM Assist - Pro version",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Pro Version - Get Started",
+            "href": "/Quikly_docs/docs/Pm assist/miniextpro"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "PM Assist - Designer version",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Designer Version - Get Started",
+            "href": "/Quikly_docs/docs/Pm_assist/miniextds"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "PM Assist",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "PM Assist - Powerful product assistant",
+            "href": "/Quikly_docs/docs/PMassist/miniext"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Ready to start!",
+            "href": "/Quikly_docs/docs/PMassist/starting_miniext"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Start recording",
+            "href": "/Quikly_docs/docs/PMassist/record"
+          },
+          {
+            "type": "link",
+            "label": "PM Assist - Screenshots",
+            "href": "/Quikly_docs/docs/PMassist/screenshot"
+          }
+        ]
+      }
+    ]
+  }
+}

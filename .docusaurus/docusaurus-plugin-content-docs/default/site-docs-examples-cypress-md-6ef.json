@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Examples/cypress",
+  "id": "Examples/cypress",
+  "isDocsHomePage": false,
+  "title": "Cypress JS Examples",
+  "description": "How to run Cypress JS",
+  "source": "@site/docs/Examples/cypress.md",
+  "sourceDirName": "Examples",
+  "slug": "/Examples/cypress",
+  "permalink": "/Quikly_docs/docs/Examples/cypress",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Side file -Simulator Example",
+    "permalink": "/Quikly_docs/docs/Examples/side"
+  },
+  "next": {
+    "title": "Live Events",
+    "permalink": "/Quikly_docs/docs/Live Events/Live Events"
+  }
+}

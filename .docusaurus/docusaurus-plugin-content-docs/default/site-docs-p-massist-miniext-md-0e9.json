@@ -1,0 +1,26 @@
+{
+  "unversionedId": "PMassist/miniext",
+  "id": "PMassist/miniext",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Powerful product assistant",
+  "description": "Want to automate your tests, but don't know where to start?",
+  "source": "@site/docs/PMassist/miniext.md",
+  "sourceDirName": "PMassist",
+  "slug": "/PMassist/miniext",
+  "permalink": "/Quikly_docs/docs/PMassist/miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Designer Version - Get Started",
+    "permalink": "/Quikly_docs/docs/Pm_assist/miniextds"
+  },
+  "next": {
+    "title": "PM Assist - Ready to start!",
+    "permalink": "/Quikly_docs/docs/PMassist/starting_miniext"
+  }
+}

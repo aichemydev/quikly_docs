@@ -1,0 +1,26 @@
+{
+  "unversionedId": "tutorial-extras/customizing-interceptor",
+  "id": "tutorial-extras/customizing-interceptor",
+  "isDocsHomePage": false,
+  "title": "Customizing Interceptor Execution",
+  "description": "You may set the following environment variables to customize how the Interceptor",
+  "source": "@site/docs/tutorial-extras/customizing-interceptor.md",
+  "sourceDirName": "tutorial-extras",
+  "slug": "/tutorial-extras/customizing-interceptor",
+  "permalink": "/Quikly_docs/docs/tutorial-extras/customizing-interceptor",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/Quikly_docs/docs/tutorial-extras/getting-started"
+  },
+  "next": {
+    "title": "Selenium JS Examples",
+    "permalink": "/Quikly_docs/docs/Examples/Selenium-JS"
+  }
+}

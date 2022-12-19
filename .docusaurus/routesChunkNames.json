@@ -1,0 +1,68 @@
+{
+  "/Quikly_docs/__docusaurus/debug-cb8": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/Quikly_docs/__docusaurus/debug/config-f17": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/Quikly_docs/__docusaurus/debug/content-879": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-e49"
+  },
+  "/Quikly_docs/__docusaurus/debug/globalData-3d4": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/Quikly_docs/__docusaurus/debug/metadata-0a8": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/Quikly_docs/__docusaurus/debug/registry-3ea": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/Quikly_docs/__docusaurus/debug/routes-113": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/Quikly_docs/blog/archive-6f6": {
+    "component": "component---theme-blog-archive-page-9-e-4-1d8",
+    "archive": "archive---quikly-docs-blog-archived-93-09a"
+  },
+  "/Quikly_docs/markdown-page-d42": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---quikly-docs-markdown-page-393-2ff"
+  },
+  "/Quikly_docs/docs-2d5": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---quikly-docs-docs-935-b02"
+  },
+  "/Quikly_docs/docs/intro-d9e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-intro-0-e-3-66e"
+  },
+  "/Quikly_docs/docs/Pm assist/miniextpro-36e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-pm-assist-miniextpro-9-c-9-b3a"
+  },
+  "/Quikly_docs/docs/Pm_assist/miniextds-8f3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-pm-assist-miniextdsfbc-ecb"
+  },
+  "/Quikly_docs/docs/PMassist/miniext-031": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-p-massist-miniext-0-e-9-284"
+  },
+  "/Quikly_docs/docs/PMassist/record-a21": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-p-massist-recordbb-9-279"
+  },
+  "/Quikly_docs/docs/PMassist/screenshot-60f": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-p-massist-screenshot-847-4aa"
+  },
+  "/Quikly_docs/docs/PMassist/starting_miniext-dc3": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---quikly-docs-docs-p-massist-starting-miniext-8-d-0-a88"
+  },
+  "/Quikly_docs/-14a": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---quikly-docs-5-e-9-b25"
+  }
+}

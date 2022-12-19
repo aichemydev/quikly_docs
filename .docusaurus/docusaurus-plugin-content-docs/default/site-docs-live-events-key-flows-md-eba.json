@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Live Events/Key Flows",
+  "id": "Live Events/Key Flows",
+  "isDocsHomePage": false,
+  "title": "Key Flows",
+  "description": "Key flows is a tool that allows to find the best test coverage among all tests generated from live events. By default, it groups tests that cover at least 20% of the most frequent webpage elements. Rel Cov % means relative coverage percentage and it shows the coverage of a test against other tests in the list.",
+  "source": "@site/docs/Live Events/Key Flows.md",
+  "sourceDirName": "Live Events",
+  "slug": "/Live Events/Key Flows",
+  "permalink": "/Quikly_docs/docs/Live Events/Key Flows",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Multiple Sessions with Pageviews",
+    "permalink": "/Quikly_docs/docs/Live Events/Multiple sessions with Pageviews"
+  },
+  "next": {
+    "title": "PM Assist - Powerful product assistant",
+    "permalink": "/Quikly_docs/docs/PMassist/miniext"
+  }
+}
