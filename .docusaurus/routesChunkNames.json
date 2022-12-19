@@ -1,68 +1,46 @@
 {
-  "/quikly_docs/__docusaurus/debug-b0a": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/quikly_docs/__docusaurus/debug/config-678": {
-    "component": "component---theme-debug-config-23-a-2ff"
-  },
-  "/quikly_docs/__docusaurus/debug/content-3d4": {
-    "component": "component---theme-debug-contentba-8-ce7",
-    "allContent": "allContent---quikly-docs-docusaurus-debug-content-246-e49"
-  },
-  "/quikly_docs/__docusaurus/debug/globalData-82f": {
-    "component": "component---theme-debug-global-dataede-0fa"
-  },
-  "/quikly_docs/__docusaurus/debug/metadata-e94": {
-    "component": "component---theme-debug-site-metadata-68-e-3d4"
-  },
-  "/quikly_docs/__docusaurus/debug/registry-70d": {
-    "component": "component---theme-debug-registry-679-501"
-  },
-  "/quikly_docs/__docusaurus/debug/routes-3b5": {
-    "component": "component---theme-debug-routes-946-699"
-  },
   "/quikly_docs/blog/archive-f90": {
-    "component": "component---theme-blog-archive-page-9-e-4-1d8",
-    "archive": "archive---quikly-docs-blog-archivedd-1-2e4"
+    "component": "9e4087bc",
+    "archive": "dd14ef00"
   },
   "/quikly_docs/markdown-page-702": {
-    "component": "component---theme-mdx-page-1-f-3-b90",
-    "content": "content---quikly-docs-markdown-page-393-2ff"
+    "component": "1f391b9e",
+    "content": "393be207"
   },
   "/quikly_docs/docs-cf7": {
-    "component": "component---theme-doc-page-1-be-9be",
-    "versionMetadata": "versionMetadata---quikly-docs-docs-935-b02"
+    "component": "1be78505",
+    "versionMetadata": "935f2afb"
   },
   "/quikly_docs/docs/intro-438": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-intro-0-e-3-66e"
+    "component": "17896441",
+    "content": "0e384e19"
   },
   "/quikly_docs/docs/Pm assist/miniext-154": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-miniext-764-a22"
+    "component": "17896441",
+    "content": "764daad6"
   },
   "/quikly_docs/docs/Pm assist/record-a62": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-record-246-f9e"
+    "component": "17896441",
+    "content": "2460277c"
   },
   "/quikly_docs/docs/Pm assist/screenshot-01d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-screenshot-17-f-411"
+    "component": "17896441",
+    "content": "17f354fe"
   },
   "/quikly_docs/docs/Pm assist/starting_miniext-37d": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-starting-miniextf-25-6ed"
+    "component": "17896441",
+    "content": "f2540b9b"
   },
   "/quikly_docs/docs/Pm_assist/miniext-821": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-miniext-6-a-7-cfb"
+    "component": "17896441",
+    "content": "6a732530"
   },
   "/quikly_docs/docs/Pm_assist/screenshot-516": {
-    "component": "component---theme-doc-item-178-a40",
-    "content": "content---quikly-docs-docs-pm-assist-screenshot-3-fb-935"
+    "component": "17896441",
+    "content": "3fb4f8c6"
   },
   "/quikly_docs/-661": {
-    "component": "component---site-src-pages-index-jsc-4-f-f99",
-    "config": "config---quikly-docs-5-e-9-b25"
+    "component": "c4f5d8e4",
+    "config": "5e9f5e1a"
   }
 }

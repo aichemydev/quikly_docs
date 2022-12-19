@@ -100,8 +100,8 @@
       814,
       195
     ],
-    "d93d6c5a": [
-      357
+    "dd14ef00": [
+      209
     ],
     "f2540b9b": [
       592,
@@ -146,9 +146,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.0e8c1b1a.js",
-          "hash": "e990b91d5cb270ed",
-          "publicPath": "/Quikly_docs/assets/js/935f2afb.0e8c1b1a.js"
+          "file": "assets/js/935f2afb.5b9660cd.js",
+          "hash": "f2ea9bce6db65711",
+          "publicPath": "/quikly_docs/assets/js/935f2afb.5b9660cd.js"
         }
       ]
     },
@@ -157,12 +157,12 @@
         {
           "file": "assets/js/75.cb3ffe01.js",
           "hash": "844b98d841b1b57d",
-          "publicPath": "/Quikly_docs/assets/js/75.cb3ffe01.js"
+          "publicPath": "/quikly_docs/assets/js/75.cb3ffe01.js"
         },
         {
           "file": "assets/js/1be78505.c485621c.js",
           "hash": "ab25318bdae4b4b6",
-          "publicPath": "/Quikly_docs/assets/js/1be78505.c485621c.js"
+          "publicPath": "/quikly_docs/assets/js/1be78505.c485621c.js"
         }
       ]
     },
@@ -171,34 +171,34 @@
         {
           "file": "assets/js/1f391b9e.2bf75f13.js",
           "hash": "e8c0dc0fe7d260ab",
-          "publicPath": "/Quikly_docs/assets/js/1f391b9e.2bf75f13.js"
+          "publicPath": "/quikly_docs/assets/js/1f391b9e.2bf75f13.js"
         }
       ]
     },
     "130": {
       "js": [
         {
-          "file": "assets/js/17f354fe.de99056c.js",
-          "hash": "46b1390117cd5c7e",
-          "publicPath": "/Quikly_docs/assets/js/17f354fe.de99056c.js"
+          "file": "assets/js/17f354fe.aa791c68.js",
+          "hash": "a8da091758454c20",
+          "publicPath": "/quikly_docs/assets/js/17f354fe.aa791c68.js"
         }
       ]
     },
     "154": {
       "js": [
         {
-          "file": "assets/js/f2540b9b.20836826.js",
-          "hash": "4f930fe56014ce76",
-          "publicPath": "/Quikly_docs/assets/js/f2540b9b.20836826.js"
+          "file": "assets/js/f2540b9b.ed7918d1.js",
+          "hash": "eb48b416c52b31f4",
+          "publicPath": "/quikly_docs/assets/js/f2540b9b.ed7918d1.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.9364b668.js",
-          "hash": "3f752e55cfab5b24",
-          "publicPath": "/Quikly_docs/assets/js/main.9364b668.js"
+          "file": "assets/js/main.38caaad8.js",
+          "hash": "93ae44dbe1bc2c54",
+          "publicPath": "/quikly_docs/assets/js/main.38caaad8.js"
         }
       ]
     },
@@ -207,61 +207,61 @@
         {
           "file": "assets/js/c4f5d8e4.cb86d0da.js",
           "hash": "7a0d0cb1223ce223",
-          "publicPath": "/Quikly_docs/assets/js/c4f5d8e4.cb86d0da.js"
+          "publicPath": "/quikly_docs/assets/js/c4f5d8e4.cb86d0da.js"
+        }
+      ]
+    },
+    "209": {
+      "js": [
+        {
+          "file": "assets/js/dd14ef00.50d07ebb.js",
+          "hash": "3350bff23b5590b4",
+          "publicPath": "/quikly_docs/assets/js/dd14ef00.50d07ebb.js"
         }
       ]
     },
     "251": {
       "js": [
         {
-          "file": "assets/js/3fb4f8c6.6d328731.js",
-          "hash": "d6cc63e61e67cb84",
-          "publicPath": "/Quikly_docs/assets/js/3fb4f8c6.6d328731.js"
+          "file": "assets/js/3fb4f8c6.cd4ab522.js",
+          "hash": "ce86489ebf234ee0",
+          "publicPath": "/quikly_docs/assets/js/3fb4f8c6.cd4ab522.js"
         }
       ]
     },
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.f56648cc.js",
-          "hash": "bafd0836cd358517",
-          "publicPath": "/Quikly_docs/assets/js/runtime~main.f56648cc.js"
-        }
-      ]
-    },
-    "357": {
-      "js": [
-        {
-          "file": "assets/js/d93d6c5a.8e827ec1.js",
-          "hash": "913b2f8c8369abd1",
-          "publicPath": "/Quikly_docs/assets/js/d93d6c5a.8e827ec1.js"
+          "file": "assets/js/runtime~main.ae40fc58.js",
+          "hash": "f7544e62378276d9",
+          "publicPath": "/quikly_docs/assets/js/runtime~main.ae40fc58.js"
         }
       ]
     },
     "402": {
       "js": [
         {
-          "file": "assets/js/6a732530.7858e4bd.js",
-          "hash": "910151349cd780bf",
-          "publicPath": "/Quikly_docs/assets/js/6a732530.7858e4bd.js"
+          "file": "assets/js/6a732530.cbb4a2eb.js",
+          "hash": "5df909376eb50503",
+          "publicPath": "/quikly_docs/assets/js/6a732530.cbb4a2eb.js"
         }
       ]
     },
     "414": {
       "js": [
         {
-          "file": "assets/js/393be207.48ad787a.js",
-          "hash": "6431186fa0447ae1",
-          "publicPath": "/Quikly_docs/assets/js/393be207.48ad787a.js"
+          "file": "assets/js/393be207.c4f30053.js",
+          "hash": "2bc88eee05c9a007",
+          "publicPath": "/quikly_docs/assets/js/393be207.c4f30053.js"
         }
       ]
     },
     "466": {
       "js": [
         {
-          "file": "assets/js/764daad6.e8628f20.js",
-          "hash": "fea549078633dade",
-          "publicPath": "/Quikly_docs/assets/js/764daad6.e8628f20.js"
+          "file": "assets/js/764daad6.a0416c8f.js",
+          "hash": "01ad2c919ae4061e",
+          "publicPath": "/quikly_docs/assets/js/764daad6.a0416c8f.js"
         }
       ]
     },
@@ -270,7 +270,7 @@
         {
           "file": "assets/css/styles.cfbb4a42.css",
           "hash": "a8030a82c545a4a7",
-          "publicPath": "/Quikly_docs/assets/css/styles.cfbb4a42.css"
+          "publicPath": "/quikly_docs/assets/css/styles.cfbb4a42.css"
         }
       ]
     },
@@ -279,7 +279,7 @@
         {
           "file": "assets/js/common.143f24b7.js",
           "hash": "0e11b9dc33d73f4a",
-          "publicPath": "/Quikly_docs/assets/js/common.143f24b7.js"
+          "publicPath": "/quikly_docs/assets/js/common.143f24b7.js"
         }
       ]
     },
@@ -288,16 +288,16 @@
         {
           "file": "assets/js/9e4087bc.e8895525.js",
           "hash": "d70efd48191b0a9d",
-          "publicPath": "/Quikly_docs/assets/js/9e4087bc.e8895525.js"
+          "publicPath": "/quikly_docs/assets/js/9e4087bc.e8895525.js"
         }
       ]
     },
     "671": {
       "js": [
         {
-          "file": "assets/js/0e384e19.b05db0b2.js",
-          "hash": "1aa2ef3c3492a5d6",
-          "publicPath": "/Quikly_docs/assets/js/0e384e19.b05db0b2.js"
+          "file": "assets/js/0e384e19.c7d2a3a0.js",
+          "hash": "4e668341d7ec8ef4",
+          "publicPath": "/quikly_docs/assets/js/0e384e19.c7d2a3a0.js"
         }
       ]
     },
@@ -306,16 +306,16 @@
         {
           "file": "assets/js/814.6913d597.js",
           "hash": "3f9519c9defa5aa3",
-          "publicPath": "/Quikly_docs/assets/js/814.6913d597.js"
+          "publicPath": "/quikly_docs/assets/js/814.6913d597.js"
         }
       ]
     },
     "821": {
       "js": [
         {
-          "file": "assets/js/2460277c.7ad30a07.js",
-          "hash": "f3db87f4d3c2e812",
-          "publicPath": "/Quikly_docs/assets/js/2460277c.7ad30a07.js"
+          "file": "assets/js/2460277c.871d9657.js",
+          "hash": "ace5778df3a188ca",
+          "publicPath": "/quikly_docs/assets/js/2460277c.871d9657.js"
         }
       ]
     },
@@ -324,7 +324,7 @@
         {
           "file": "assets/js/914.b7c06250.js",
           "hash": "f9e7dedf9f0b861f",
-          "publicPath": "/Quikly_docs/assets/js/914.b7c06250.js"
+          "publicPath": "/quikly_docs/assets/js/914.b7c06250.js"
         }
       ]
     },
@@ -333,7 +333,7 @@
         {
           "file": "assets/js/17896441.265b6ff2.js",
           "hash": "b395c7baad26f360",
-          "publicPath": "/Quikly_docs/assets/js/17896441.265b6ff2.js"
+          "publicPath": "/quikly_docs/assets/js/17896441.265b6ff2.js"
         }
       ]
     }
