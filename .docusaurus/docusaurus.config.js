@@ -65,15 +65,6 @@ export default {
               "href": "https://github.com/aichemydev/Quikly_docs/issues"
             }
           ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            }
-          ]
         }
       ],
       "copyright": "Copyright © 2022 AiChemy Inc."

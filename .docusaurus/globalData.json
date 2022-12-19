@@ -16,33 +16,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Pm assist/miniextpro",
-              "path": "/Quikly_docs/docs/Pm assist/miniextpro",
+              "id": "Pm assist/miniext",
+              "path": "/Quikly_docs/docs/Pm assist/miniext",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Pm_assist/miniextds",
-              "path": "/Quikly_docs/docs/Pm_assist/miniextds",
+              "id": "Pm assist/record",
+              "path": "/Quikly_docs/docs/Pm assist/record",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "PMassist/miniext",
-              "path": "/Quikly_docs/docs/PMassist/miniext",
+              "id": "Pm assist/screenshot",
+              "path": "/Quikly_docs/docs/Pm assist/screenshot",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "PMassist/record",
-              "path": "/Quikly_docs/docs/PMassist/record",
+              "id": "Pm assist/starting_miniext",
+              "path": "/Quikly_docs/docs/Pm assist/starting_miniext",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "PMassist/screenshot",
-              "path": "/Quikly_docs/docs/PMassist/screenshot",
+              "id": "Pm_assist/miniext",
+              "path": "/Quikly_docs/docs/Pm_assist/miniext",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "PMassist/starting_miniext",
-              "path": "/Quikly_docs/docs/PMassist/starting_miniext",
+              "id": "Pm_assist/screenshot",
+              "path": "/Quikly_docs/docs/Pm_assist/screenshot",
               "sidebar": "tutorialSidebar"
             }
           ]

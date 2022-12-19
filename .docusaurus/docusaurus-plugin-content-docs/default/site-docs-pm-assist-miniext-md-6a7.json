@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pm_assist/miniext",
+  "id": "Pm_assist/miniext",
+  "isDocsHomePage": false,
+  "title": "PM Designer - Get Started",
+  "description": "Getting started with PM Assist is easy!",
+  "source": "@site/docs/Pm_assist/miniext.md",
+  "sourceDirName": "Pm_assist",
+  "slug": "/Pm_assist/miniext",
+  "permalink": "/Quikly_docs/docs/Pm_assist/miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Screenshots",
+    "permalink": "/Quikly_docs/docs/Pm assist/screenshot"
+  },
+  "next": {
+    "title": "PM Designer - Screenshots",
+    "permalink": "/Quikly_docs/docs/Pm_assist/screenshot"
+  }
+}

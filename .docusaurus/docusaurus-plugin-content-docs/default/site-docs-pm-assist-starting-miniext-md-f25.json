@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pm assist/starting_miniext",
+  "id": "Pm assist/starting_miniext",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Ready to start!",
+  "description": "PM Assist is one of the most user friendly tools out there. PM Assist will guide through all the steps to start recording a testcase.",
+  "source": "@site/docs/Pm assist/starting_miniext.md",
+  "sourceDirName": "Pm assist",
+  "slug": "/Pm assist/starting_miniext",
+  "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist Pro - Get Started",
+    "permalink": "/Quikly_docs/docs/Pm assist/miniext"
+  },
+  "next": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Quikly_docs/docs/Pm assist/record"
+  }
+}

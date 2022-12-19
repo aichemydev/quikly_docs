@@ -50,7 +50,7 @@ export default [
   },
   {
     path: '/Quikly_docs/docs',
-    component: ComponentCreator('/Quikly_docs/docs','2d5'),
+    component: ComponentCreator('/Quikly_docs/docs','32f'),
     routes: [
       {
         path: '/Quikly_docs/docs/intro',
@@ -59,38 +59,38 @@ export default [
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/Pm assist/miniextpro',
-        component: ComponentCreator('/Quikly_docs/docs/Pm assist/miniextpro','36e'),
+        path: '/Quikly_docs/docs/Pm assist/miniext',
+        component: ComponentCreator('/Quikly_docs/docs/Pm assist/miniext','b2e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/Pm_assist/miniextds',
-        component: ComponentCreator('/Quikly_docs/docs/Pm_assist/miniextds','8f3'),
+        path: '/Quikly_docs/docs/Pm assist/record',
+        component: ComponentCreator('/Quikly_docs/docs/Pm assist/record','74b'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/PMassist/miniext',
-        component: ComponentCreator('/Quikly_docs/docs/PMassist/miniext','031'),
+        path: '/Quikly_docs/docs/Pm assist/screenshot',
+        component: ComponentCreator('/Quikly_docs/docs/Pm assist/screenshot','71d'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/PMassist/record',
-        component: ComponentCreator('/Quikly_docs/docs/PMassist/record','a21'),
+        path: '/Quikly_docs/docs/Pm assist/starting_miniext',
+        component: ComponentCreator('/Quikly_docs/docs/Pm assist/starting_miniext','b97'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/PMassist/screenshot',
-        component: ComponentCreator('/Quikly_docs/docs/PMassist/screenshot','60f'),
+        path: '/Quikly_docs/docs/Pm_assist/miniext',
+        component: ComponentCreator('/Quikly_docs/docs/Pm_assist/miniext','142'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/Quikly_docs/docs/PMassist/starting_miniext',
-        component: ComponentCreator('/Quikly_docs/docs/PMassist/starting_miniext','dc3'),
+        path: '/Quikly_docs/docs/Pm_assist/screenshot',
+        component: ComponentCreator('/Quikly_docs/docs/Pm_assist/screenshot','1bb'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }

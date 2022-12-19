@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pm assist/screenshot",
+  "id": "Pm assist/screenshot",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Screenshots",
+  "description": "What's awesome about PM Assist?",
+  "source": "@site/docs/Pm assist/screenshot.md",
+  "sourceDirName": "Pm assist",
+  "slug": "/Pm assist/screenshot",
+  "permalink": "/Quikly_docs/docs/Pm assist/screenshot",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Start recording",
+    "permalink": "/Quikly_docs/docs/Pm assist/record"
+  },
+  "next": {
+    "title": "PM Designer - Get Started",
+    "permalink": "/Quikly_docs/docs/Pm_assist/miniext"
+  }
+}

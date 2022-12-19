@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Pm assist/record",
+  "id": "Pm assist/record",
+  "isDocsHomePage": false,
+  "title": "PM Assist - Start recording",
+  "description": "Before we start recording a website, you have to know that this extension is linked with Live events (for more information about Live Events, please go to Live Events section).",
+  "source": "@site/docs/Pm assist/record.md",
+  "sourceDirName": "Pm assist",
+  "slug": "/Pm assist/record",
+  "permalink": "/Quikly_docs/docs/Pm assist/record",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "PM Assist - Ready to start!",
+    "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext"
+  },
+  "next": {
+    "title": "PM Assist - Screenshots",
+    "permalink": "/Quikly_docs/docs/Pm assist/screenshot"
+  }
+}
