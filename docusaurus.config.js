@@ -10,7 +10,7 @@ const config = {
   tagline: 'Speed up the testing process!',
   //url: 'https://aichemydev.github.io/',
   url: 'https://github.com/',
-  baseUrl: '/Quikly_docs/',
+  baseUrl: '/quikly_docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'favicon.png',

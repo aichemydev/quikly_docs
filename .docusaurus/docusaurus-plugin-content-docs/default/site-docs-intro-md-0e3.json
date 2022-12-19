@@ -7,7 +7,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Quikly_docs/docs/intro",
+  "permalink": "/quikly_docs/docs/intro",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "PM Assist Pro - Get Started",
-    "permalink": "/Quikly_docs/docs/Pm assist/miniext"
+    "permalink": "/quikly_docs/docs/Pm assist/miniext"
   }
 }

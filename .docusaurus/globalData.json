@@ -1,48 +1,48 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/Quikly_docs/docs",
+      "path": "/quikly_docs/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Quikly_docs/docs",
+          "path": "/quikly_docs/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/Quikly_docs/docs/intro",
+              "path": "/quikly_docs/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm assist/miniext",
-              "path": "/Quikly_docs/docs/Pm assist/miniext",
+              "path": "/quikly_docs/docs/Pm assist/miniext",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm assist/record",
-              "path": "/Quikly_docs/docs/Pm assist/record",
+              "path": "/quikly_docs/docs/Pm assist/record",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm assist/screenshot",
-              "path": "/Quikly_docs/docs/Pm assist/screenshot",
+              "path": "/quikly_docs/docs/Pm assist/screenshot",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm assist/starting_miniext",
-              "path": "/Quikly_docs/docs/Pm assist/starting_miniext",
+              "path": "/quikly_docs/docs/Pm assist/starting_miniext",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm_assist/miniext",
-              "path": "/Quikly_docs/docs/Pm_assist/miniext",
+              "path": "/quikly_docs/docs/Pm_assist/miniext",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "Pm_assist/screenshot",
-              "path": "/Quikly_docs/docs/Pm_assist/screenshot",
+              "path": "/quikly_docs/docs/Pm_assist/screenshot",
               "sidebar": "tutorialSidebar"
             }
           ]

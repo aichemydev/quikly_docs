@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/Quikly_docs/docs",
-          "tagsPath": "/Quikly_docs/docs/tags",
+          "versionPath": "/quikly_docs/docs",
+          "tagsPath": "/quikly_docs/docs/tags",
           "versionBanner": null,
           "versionBadge": false,
           "versionClassName": "docs-version-current",
@@ -26,7 +26,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/Quikly_docs/docs/intro",
+              "permalink": "/quikly_docs/docs/intro",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -36,7 +36,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "PM Assist Pro - Get Started",
-                "permalink": "/Quikly_docs/docs/Pm assist/miniext"
+                "permalink": "/quikly_docs/docs/Pm assist/miniext"
               }
             },
             {
@@ -48,7 +48,7 @@
               "source": "@site/docs/Pm assist/miniext.md",
               "sourceDirName": "Pm assist",
               "slug": "/Pm assist/miniext",
-              "permalink": "/Quikly_docs/docs/Pm assist/miniext",
+              "permalink": "/quikly_docs/docs/Pm assist/miniext",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -58,11 +58,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/Quikly_docs/docs/intro"
+                "permalink": "/quikly_docs/docs/intro"
               },
               "next": {
                 "title": "PM Assist - Ready to start!",
-                "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext"
+                "permalink": "/quikly_docs/docs/Pm assist/starting_miniext"
               }
             },
             {
@@ -74,7 +74,7 @@
               "source": "@site/docs/Pm assist/record.md",
               "sourceDirName": "Pm assist",
               "slug": "/Pm assist/record",
-              "permalink": "/Quikly_docs/docs/Pm assist/record",
+              "permalink": "/quikly_docs/docs/Pm assist/record",
               "tags": [],
               "version": "current",
               "sidebarPosition": 3,
@@ -84,11 +84,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PM Assist - Ready to start!",
-                "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext"
+                "permalink": "/quikly_docs/docs/Pm assist/starting_miniext"
               },
               "next": {
                 "title": "PM Assist - Screenshots",
-                "permalink": "/Quikly_docs/docs/Pm assist/screenshot"
+                "permalink": "/quikly_docs/docs/Pm assist/screenshot"
               }
             },
             {
@@ -100,7 +100,7 @@
               "source": "@site/docs/Pm assist/screenshot.md",
               "sourceDirName": "Pm assist",
               "slug": "/Pm assist/screenshot",
-              "permalink": "/Quikly_docs/docs/Pm assist/screenshot",
+              "permalink": "/quikly_docs/docs/Pm assist/screenshot",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -110,11 +110,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PM Assist - Start recording",
-                "permalink": "/Quikly_docs/docs/Pm assist/record"
+                "permalink": "/quikly_docs/docs/Pm assist/record"
               },
               "next": {
                 "title": "PM Designer - Get Started",
-                "permalink": "/Quikly_docs/docs/Pm_assist/miniext"
+                "permalink": "/quikly_docs/docs/Pm_assist/miniext"
               }
             },
             {
@@ -126,7 +126,7 @@
               "source": "@site/docs/Pm assist/starting_miniext.md",
               "sourceDirName": "Pm assist",
               "slug": "/Pm assist/starting_miniext",
-              "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext",
+              "permalink": "/quikly_docs/docs/Pm assist/starting_miniext",
               "tags": [],
               "version": "current",
               "sidebarPosition": 2,
@@ -136,11 +136,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PM Assist Pro - Get Started",
-                "permalink": "/Quikly_docs/docs/Pm assist/miniext"
+                "permalink": "/quikly_docs/docs/Pm assist/miniext"
               },
               "next": {
                 "title": "PM Assist - Start recording",
-                "permalink": "/Quikly_docs/docs/Pm assist/record"
+                "permalink": "/quikly_docs/docs/Pm assist/record"
               }
             },
             {
@@ -152,7 +152,7 @@
               "source": "@site/docs/Pm_assist/miniext.md",
               "sourceDirName": "Pm_assist",
               "slug": "/Pm_assist/miniext",
-              "permalink": "/Quikly_docs/docs/Pm_assist/miniext",
+              "permalink": "/quikly_docs/docs/Pm_assist/miniext",
               "tags": [],
               "version": "current",
               "sidebarPosition": 1,
@@ -162,11 +162,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PM Assist - Screenshots",
-                "permalink": "/Quikly_docs/docs/Pm assist/screenshot"
+                "permalink": "/quikly_docs/docs/Pm assist/screenshot"
               },
               "next": {
                 "title": "PM Designer - Screenshots",
-                "permalink": "/Quikly_docs/docs/Pm_assist/screenshot"
+                "permalink": "/quikly_docs/docs/Pm_assist/screenshot"
               }
             },
             {
@@ -178,7 +178,7 @@
               "source": "@site/docs/Pm_assist/screenshot.md",
               "sourceDirName": "Pm_assist",
               "slug": "/Pm_assist/screenshot",
-              "permalink": "/Quikly_docs/docs/Pm_assist/screenshot",
+              "permalink": "/quikly_docs/docs/Pm_assist/screenshot",
               "tags": [],
               "version": "current",
               "sidebarPosition": 4,
@@ -188,7 +188,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "PM Designer - Get Started",
-                "permalink": "/Quikly_docs/docs/Pm_assist/miniext"
+                "permalink": "/quikly_docs/docs/Pm_assist/miniext"
               }
             }
           ],
@@ -257,12 +257,12 @@
     "default": [
       {
         "type": "jsx",
-        "permalink": "/Quikly_docs/",
+        "permalink": "/quikly_docs/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/Quikly_docs/markdown-page",
+        "permalink": "/quikly_docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md"
       }
     ]

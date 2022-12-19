@@ -7,7 +7,7 @@
   "source": "@site/docs/Pm assist/starting_miniext.md",
   "sourceDirName": "Pm assist",
   "slug": "/Pm assist/starting_miniext",
-  "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext",
+  "permalink": "/quikly_docs/docs/Pm assist/starting_miniext",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PM Assist Pro - Get Started",
-    "permalink": "/Quikly_docs/docs/Pm assist/miniext"
+    "permalink": "/quikly_docs/docs/Pm assist/miniext"
   },
   "next": {
     "title": "PM Assist - Start recording",
-    "permalink": "/Quikly_docs/docs/Pm assist/record"
+    "permalink": "/quikly_docs/docs/Pm assist/record"
   }
 }

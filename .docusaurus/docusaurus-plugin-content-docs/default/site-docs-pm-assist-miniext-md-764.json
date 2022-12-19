@@ -7,7 +7,7 @@
   "source": "@site/docs/Pm assist/miniext.md",
   "sourceDirName": "Pm assist",
   "slug": "/Pm assist/miniext",
-  "permalink": "/Quikly_docs/docs/Pm assist/miniext",
+  "permalink": "/quikly_docs/docs/Pm assist/miniext",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/Quikly_docs/docs/intro"
+    "permalink": "/quikly_docs/docs/intro"
   },
   "next": {
     "title": "PM Assist - Ready to start!",
-    "permalink": "/Quikly_docs/docs/Pm assist/starting_miniext"
+    "permalink": "/quikly_docs/docs/Pm assist/starting_miniext"
   }
 }

@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Getting Started",
-        "href": "/Quikly_docs/docs/intro"
+        "href": "/quikly_docs/docs/intro"
       },
       {
         "type": "category",
@@ -22,22 +22,22 @@
           {
             "type": "link",
             "label": "PM Assist Pro - Get Started",
-            "href": "/Quikly_docs/docs/Pm assist/miniext"
+            "href": "/quikly_docs/docs/Pm assist/miniext"
           },
           {
             "type": "link",
             "label": "PM Assist - Ready to start!",
-            "href": "/Quikly_docs/docs/Pm assist/starting_miniext"
+            "href": "/quikly_docs/docs/Pm assist/starting_miniext"
           },
           {
             "type": "link",
             "label": "PM Assist - Start recording",
-            "href": "/Quikly_docs/docs/Pm assist/record"
+            "href": "/quikly_docs/docs/Pm assist/record"
           },
           {
             "type": "link",
             "label": "PM Assist - Screenshots",
-            "href": "/Quikly_docs/docs/Pm assist/screenshot"
+            "href": "/quikly_docs/docs/Pm assist/screenshot"
           }
         ]
       },
@@ -50,12 +50,12 @@
           {
             "type": "link",
             "label": "PM Designer - Get Started",
-            "href": "/Quikly_docs/docs/Pm_assist/miniext"
+            "href": "/quikly_docs/docs/Pm_assist/miniext"
           },
           {
             "type": "link",
             "label": "PM Designer - Screenshots",
-            "href": "/Quikly_docs/docs/Pm_assist/screenshot"
+            "href": "/quikly_docs/docs/Pm_assist/screenshot"
           }
         ]
       }

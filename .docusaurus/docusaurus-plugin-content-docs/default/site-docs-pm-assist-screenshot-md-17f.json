@@ -7,7 +7,7 @@
   "source": "@site/docs/Pm assist/screenshot.md",
   "sourceDirName": "Pm assist",
   "slug": "/Pm assist/screenshot",
-  "permalink": "/Quikly_docs/docs/Pm assist/screenshot",
+  "permalink": "/quikly_docs/docs/Pm assist/screenshot",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PM Assist - Start recording",
-    "permalink": "/Quikly_docs/docs/Pm assist/record"
+    "permalink": "/quikly_docs/docs/Pm assist/record"
   },
   "next": {
     "title": "PM Designer - Get Started",
-    "permalink": "/Quikly_docs/docs/Pm_assist/miniext"
+    "permalink": "/quikly_docs/docs/Pm_assist/miniext"
   }
 }

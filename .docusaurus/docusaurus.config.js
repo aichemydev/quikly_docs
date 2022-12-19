@@ -2,7 +2,7 @@ export default {
   "title": "Quikly",
   "tagline": "Speed up the testing process!",
   "url": "https://github.com/",
-  "baseUrl": "/Quikly_docs/",
+  "baseUrl": "/quikly_docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "favicon.png",

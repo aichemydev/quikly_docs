@@ -7,7 +7,7 @@
   "source": "@site/docs/Pm_assist/screenshot.md",
   "sourceDirName": "Pm_assist",
   "slug": "/Pm_assist/screenshot",
-  "permalink": "/Quikly_docs/docs/Pm_assist/screenshot",
+  "permalink": "/quikly_docs/docs/Pm_assist/screenshot",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PM Designer - Get Started",
-    "permalink": "/Quikly_docs/docs/Pm_assist/miniext"
+    "permalink": "/quikly_docs/docs/Pm_assist/miniext"
   }
 }

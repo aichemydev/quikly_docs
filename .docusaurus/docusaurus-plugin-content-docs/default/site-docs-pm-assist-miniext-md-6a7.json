@@ -7,7 +7,7 @@
   "source": "@site/docs/Pm_assist/miniext.md",
   "sourceDirName": "Pm_assist",
   "slug": "/Pm_assist/miniext",
-  "permalink": "/Quikly_docs/docs/Pm_assist/miniext",
+  "permalink": "/quikly_docs/docs/Pm_assist/miniext",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "PM Assist - Screenshots",
-    "permalink": "/Quikly_docs/docs/Pm assist/screenshot"
+    "permalink": "/quikly_docs/docs/Pm assist/screenshot"
   },
   "next": {
     "title": "PM Designer - Screenshots",
-    "permalink": "/Quikly_docs/docs/Pm_assist/screenshot"
+    "permalink": "/quikly_docs/docs/Pm_assist/screenshot"
   }
 }
