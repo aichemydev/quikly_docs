@@ -52,7 +52,7 @@ Instructions:
 
 
 
-Don’t forget to give us feedback when you have your first test. We really appreciate your input so that we can make it even more awesome!
+Don’t forget to give us feedback when you have your first session/test. We really appreciate your input so that we can make it even more awesome!
 
 ## What's Next?
 

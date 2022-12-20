@@ -20,7 +20,7 @@ After you run a test and make sure everything works as it should, go to your pro
 
 In Live Events tab, you will see a video on all the steps you did, run and download (*download the file later and use it as reference information during any future testing.*) the testcase you just did (.Quikly file) and more.
 
-Check video below: 
+Check the video below: 
 
 ![Miniext](/img/recordd.gif)
 
