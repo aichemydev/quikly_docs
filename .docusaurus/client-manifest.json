@@ -146,9 +146,9 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.5b9660cd.js",
-          "hash": "f2ea9bce6db65711",
-          "publicPath": "/quikly_docs/assets/js/935f2afb.5b9660cd.js"
+          "file": "assets/js/935f2afb.9aaba238.js",
+          "hash": "c6d4f3198b4af460",
+          "publicPath": "/quikly_docs/assets/js/935f2afb.9aaba238.js"
         }
       ]
     },
@@ -232,9 +232,9 @@
     "303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.ae40fc58.js",
-          "hash": "f7544e62378276d9",
-          "publicPath": "/quikly_docs/assets/js/runtime~main.ae40fc58.js"
+          "file": "assets/js/runtime~main.4a816702.js",
+          "hash": "ef549c2edd222568",
+          "publicPath": "/quikly_docs/assets/js/runtime~main.4a816702.js"
         }
       ]
     },

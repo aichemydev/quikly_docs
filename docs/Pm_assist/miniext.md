@@ -5,7 +5,7 @@ sidebar_position: 1
 # PM Designer - Get Started
 
 
-Getting started with PM Assist is easy!
+Getting started with PM Designer is easy!
 
 However, it doesn’t matter whether your browser is compatible with this extension or not. You can install the extension (comming soon!) with just a click and start using it as soon as you finish downloading.
 
@@ -43,7 +43,7 @@ Instructions:
 
 ![Miniext](/img/miniext1.png)
 
-8. After you have installed PM Designer, you will see extention button in the toolbar and and you'll be able to see/pin PM Assist there.
+8. After you have installed PM Designer, you will see extention button in the toolbar and and you'll be able to see/pin PM Designer there.
 
 ![Miniext](/img/miniext2.png)
 
@@ -56,4 +56,4 @@ Don’t forget to give us feedback when you have your first test. We really appr
 
 ## What's Next?
 
- **Congrats!** You are all set. You are ready to discover PM Assist.
+ **Congrats!** You are all set. You are ready to discover PM Designer.
