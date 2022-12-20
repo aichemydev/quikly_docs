@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Quikly',
-  tagline: 'Speed up the testing process!',
+  tagline: 'Intelligent Product Management!',
   //url: 'https://aichemydev.github.io/',
   url: 'https://github.com/',
   baseUrl: '/quikly_docs/',
