@@ -19,4 +19,4 @@ To capture a full page screenshot:
 
 Check the video below:
 
-![Miniext](/img/pro.gif)
+![Miniext](/img/proo.gif)

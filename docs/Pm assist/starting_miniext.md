@@ -8,7 +8,7 @@ PM Assist is one of the most user friendly tools out there. PM Assist will guide
 
 PM Assist is designed to be the simple, powerful way for people to collect customer feedback and other data. Below, you get a summary on what our product does and what it can handle. As a matter of fact you get to prioritise every benefit in a easy way at all times. With that alone, you get to make sure that everything goes right. And we will be very happy to help you out throughout the process.
 
-![Miniext](/img/minext4.png)
+![Miniext](/img/miniext8.png)
 
 Now, we can check what PM Assist can do!
 

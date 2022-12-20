@@ -18,4 +18,4 @@ To capture a full page screenshot:
 
 Check the video below:
 
-![Miniext](/img/designer.gif)
+![Miniext](/img/designeer.gif)

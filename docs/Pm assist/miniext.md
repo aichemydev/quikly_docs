@@ -36,19 +36,19 @@ Instructions:
 
 6. Once you click, it will open a file explorer - navigate to the folder where you have extracted the files.
 
-![Miniext](/img/extension1.png)
+![Miniext](/img/pro.png)
 
 7. Now you will see PM Assist and you are ready to get started!
 
-![Miniext](/img/miniext1.png)
+![Miniext](/img/miniext11.png)
 
 8. After you have installed PM Assist, you will see extension button in the toolbar and you'll be able to see the PM Assist there.
 
-![Miniext](/img/miniext2.png)
+![Miniext](/img/minext12.png)
 
 9. Now you're one click away to open PM Assist...
 
-![Miniext](/img/miniext3.png)
+![Miniext](/img/miniext13.png)
 
 
 

@@ -12,7 +12,7 @@ If you are looking for a way to record your website with PM Assist, it is easy. 
 
 Once you go to your (chosen/wanted) website, open PM Assist (check `PM Assist - Ready to start!` on how to open it) and click on `Record/Observe` button. Then, click on what steps you want to record.
 
-![Miniext](/img/miniext8.png)
+![Miniext](/img/miniext111.png)
 
 After you run a test and make sure everything works as it should, go to your project on the Live Events tab. You’ll see a new test or session that wasn’t there before.
 
@@ -22,7 +22,7 @@ In Live Events tab, you will see a video on all the steps you did, run and downl
 
 Check video below: 
 
-![Miniext](/img/record.gif)
+![Miniext](/img/recordd.gif)
 
 
 Session map and funnels, coming soon!
