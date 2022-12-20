@@ -4,6 +4,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/quikly_docs/__docusaurus/debug',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug','b0a'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/config',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/config','678'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/content',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/content','3d4'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/globalData','82f'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/metadata','e94'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/registry','70d'),
+    exact: true
+  },
+  {
+    path: '/quikly_docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/quikly_docs/__docusaurus/debug/routes','3b5'),
+    exact: true
+  },
+  {
     path: '/quikly_docs/blog/archive',
     component: ComponentCreator('/quikly_docs/blog/archive','f90'),
     exact: true

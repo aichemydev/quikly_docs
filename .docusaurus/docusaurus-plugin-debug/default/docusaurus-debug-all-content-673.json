@@ -12,9 +12,9 @@
           "versionClassName": "docs-version-current",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\sidebars.js",
-          "contentPath": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\docs",
-          "contentPathLocalized": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "sidebarFilePath": "/Users/shiv/workspace/quikly_docs/sidebars.js",
+          "contentPath": "/Users/shiv/workspace/quikly_docs/docs",
+          "contentPathLocalized": "/Users/shiv/workspace/quikly_docs/i18n/en/docusaurus-plugin-content-docs/current",
           "mainDocId": "intro",
           "docs": [
             {
