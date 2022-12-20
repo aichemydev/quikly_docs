@@ -6,7 +6,7 @@ sidebar_position: 4
 
 What's awesome about PM Designer? 
 
-Well, in case you were wonderingwe can also do full page screenshots. 
+Well, in case you were wondering we can also do full page screenshots. 
 
 To do a full page screenshot is simple, all you have to do is:
 
