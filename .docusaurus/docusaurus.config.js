@@ -1,6 +1,6 @@
 export default {
   "title": "Quikly",
-  "tagline": "Speed up the testing process!",
+  "tagline": "Intelligent Product Management",
   "url": "https://github.com/",
   "baseUrl": "/quikly_docs/",
   "onBrokenLinks": "throw",
@@ -15,10 +15,10 @@ export default {
       "@docusaurus/preset-classic",
       {
         "docs": {
-          "sidebarPath": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\sidebars.js"
+          "sidebarPath": "/Users/shiv/workspace/quikly_docs/sidebars.js"
         },
         "theme": {
-          "customCss": "C:\\Users\\lenovo\\Documents\\GitHub\\quikly_docs\\src\\css\\custom.css"
+          "customCss": "/Users/shiv/workspace/quikly_docs/src/css/custom.css"
         }
       }
     ]
