@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Getting started with PM Designer is easy!
 
-However, it doesn’t matter whether your browser is compatible with this extension or not. You can install the extension (comming soon!) with just a click and start using it as soon as you finish downloading.
+However, it doesn’t matter whether your browser is compatible with this extension or not. You can install the extension (coming soon!) with just a click and start using it as soon as you finish downloading.
 
 *We will have a version on the store later, but for now this is a good way to get started!*
 
